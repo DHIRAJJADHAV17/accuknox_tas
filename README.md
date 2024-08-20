@@ -1,4 +1,4 @@
-# React + TypeScript + Vite +Redux/ReduxTool kit 
+# React + TypeScript + Vite +Redux/ReduxTool kit +tailwind css
 
 
 How to Run the Application:
